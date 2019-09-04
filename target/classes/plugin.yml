@@ -1,0 +1,8 @@
+name: Uncraft
+version: 2.0
+api-version: 1.13
+main: info.mythicmc.zorioux.uncraft.Uncraft
+authors: [Zorioux]
+commands:
+  uncraft:
+    aliases: [uc]
